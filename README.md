@@ -14,3 +14,7 @@
 3. В файле main.py указываете максимальный газ, задержку и сумму депозита
 
 4. Запускаете в пучарм или же в консоли python main.py   / для МАК python3 main.py
+
+Подпишись на автора https://t.me/gaincryptolox
+Подпишись на автора https://t.me/gaincryptolox
+Подпишись на автора https://t.me/gaincryptolox
