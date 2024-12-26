@@ -9,7 +9,7 @@
 
 1. Укажите приватные ключи в файл private_keys . КАЖДЫЙ КОШЕЛЕК С НОВОЙ СТРОКИ!!!!! ПУСТЫЕ СТРОКИ НЕ ОСТАВЛЯЙТЕ
 
-2. Пришите в теримнал pip install -r requirements.txt для мак  pip3 install -r requirements.txt
+2. Пришите в теримнал pip install -r requirements.txt  /  для мак  pip3 install -r requirements.txt
 
 3. В файле main.py указываете максимальный газ, задержку и сумму депозита
 
